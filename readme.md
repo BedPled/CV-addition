@@ -20,14 +20,21 @@
 ### Assembler
 
 -	Арифметические и логические команды в ассемблере.
+<br>GitHub: https://github.com/BedPled/AssemblerLab/blob/main/AssemblerLab1.1/AssemblerLab1.1.cpp
+<br>https://github.com/BedPled/AssemblerLab/blob/main/AssemblerLab1.2/AssemblerLab1.2.cpp
 
 -	Арифметические команды и команды переходов.
+<br>GitHub: https://github.com/BedPled/AssemblerLab/blob/main/AssemblerLab2/AssemblerLab2.cpp
 
 -	Программирование на языке ассемблер задач с использованием массивов строковых данных.
+<br>GitHub: https://github.com/BedPled/AssemblerLab/blob/main/AssemblerLab3/AssemblerLab3.cpp
 
 -	Работа с математическим сопроцессором в среде Assembler.
+<br>GitHub: https://github.com/BedPled/AssemblerLab/blob/main/AssemblerLab4.1/AssemblerLab4.1.cpp
+<br>https://github.com/BedPled/AssemblerLab/blob/main/AssemblerLab4.2/AssemblerLab4.2.cpp
 
 -	Работа со строками в консоли на ассемблере (MASM).
+<br>GitHub: https://github.com/BedPled/AssemblerLab/blob/main/AssemblerLab5/lab5.asm
 
 ### Алгоритмы и структуры данных. Язык программирования С++
 
@@ -161,11 +168,11 @@
 
 ## Внеучебные проекты:
 
-- Участив в Siberian Game Jam на Unity (Язык программирования С#). Разработка аркадной игры за 48 часов.
+- Участиe в Siberian Game Jam на Unity (Язык программирования С#). Разработка аркадной игры за 48 часов.
 <br> Суть игры: Машинка едет по дороге, объезжает препятствия, собирает бонусы. 
 <br> Роль: геймдизайнер, программист. 
 
-- Поисковые подсказки с ранжированием на java. 
+- Поисковые подсказки с ранжированием. Язык программирования Java 
 <br>GitHub: https://github.com/BedPled/VKsearch
 
 
